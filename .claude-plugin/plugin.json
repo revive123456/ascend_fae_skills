@@ -1,0 +1,12 @@
+{
+  "name": "ascend-fae-skills",
+  "version": "0.1.0",
+  "description": "昇腾 FAE 技能插件 — 模型迁移、精度调试、性能调优、CANN 配置、MindStudio、部署交付等场景的技能沉淀",
+  "author": {
+    "name": "Ascend FAE Team"
+  },
+  "homepage": "https://github.com/revive123456/ascend_fae_skills",
+  "repository": "https://github.com/revive123456/ascend_fae_skills",
+  "license": "MIT",
+  "keywords": ["ascend", "fae", "cann", "mindspore", "npu"]
+}

@@ -1,9 +1,6 @@
 ---
 name: download-weights
-description: >
-  从国内镜像（ModelScope、HF Mirror、魔乐社区等）下载任意模型权重。
-  支持断点续传、精度变体选择、后台执行。
-  触发词：包括但不限于下载权重、下载模型、download weight、download model、pull model。
+description: 从国内镜像（ModelScope、HF Mirror、魔乐社区等）下载任意模型权重。支持断点续传、精度变体选择、后台执行。触发词：下载权重、下载模型、download weight、download model、pull model。
 ---
 
 # 下载模型权重
