@@ -5,6 +5,6 @@
   "author": "",
   "license": "MIT",
   "skills": [
-    "skills/deployment"
+    "skills/deployment/download-weights"
   ]
 }
