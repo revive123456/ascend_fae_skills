@@ -12,7 +12,7 @@ claude plugins install <repository-url>
 
 | 分类 | 技能 | 说明 |
 |------|------|------|
-| deployment | (待添加) | 部署交付相关 |
+| deployment | `download-weights` | 从国内镜像下载模型权重，支持断点续传 & 后台执行 |
 
 ## 技能分类框架（规划中）
 
