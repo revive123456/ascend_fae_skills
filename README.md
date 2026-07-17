@@ -37,3 +37,4 @@ bash install.sh --uninstall
 | 技能 | 说明 |
 |------|------|
 | `download_weight` | 从国内镜像下载模型权重，支持断点续传 & 后台执行 |
+| `pd-separated-service` | PD（Prefill-Decode）分离推理服务部署，支持单机多卡 & 多机分离 |

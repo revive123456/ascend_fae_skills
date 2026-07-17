@@ -8,5 +8,9 @@
   "homepage": "https://github.com/revive123456/ascend_fae_skills",
   "repository": "https://github.com/revive123456/ascend_fae_skills",
   "license": "MIT",
-  "keywords": ["ascend", "fae", "cann", "mindspore", "npu"]
+  "keywords": ["ascend", "fae"],
+  "skills": [
+    "skills/download_weight/SKILL.md",
+    "skills/pd-separated-service/SKILL.md"
+  ]
 }
